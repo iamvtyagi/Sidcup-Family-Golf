@@ -1,6 +1,6 @@
 # Sidcup Family Golf Website
 
-This project is a for Sidcup Family Golf, a family-friendly golf venue in South East London. The site is designed to showcase the venue's offerings, including its Toptracer Range, golf lessons, adventure golf, and coffee shop, along with interactive features like custom cursors and animations.
+This project is for Sidcup Family Golf, a family-friendly golf venue in South East London. The site is designed to showcase the venue's offerings, including its Toptracer Range, golf lessons, adventure golf, and coffee shop, along with interactive features like custom cursors and animations.
 
 ## Table of Contents
 - [Features](#features)
