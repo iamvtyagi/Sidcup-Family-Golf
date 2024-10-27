@@ -1,4 +1,6 @@
 
+
+
 var crsr = document.querySelector("#cursor");
 
 document.addEventListener("mousemove",function(dets){
@@ -19,13 +21,20 @@ document.addEventListener("mousemove",function(dets){
 var tl = gsap.timeline();
 
 var imageNav = document.querySelector("#nav img")
-
+var menu = document.querySelector("#nav #menu")
 tl.from(imageNav,{
     opacity: 0,
     // scale : 0,
     y:-30,
     stagger : "0.10s",
     scrub : 3
+})
+tl.from(menu,{
+  opacity: 0,
+  // scale : 0,
+  y:-30,
+  stagger : "0.10s",
+  scrub : 3
 })
 var h4all = document.querySelectorAll("#nav h4")
 
@@ -207,6 +216,9 @@ gsap.from("#page4 h1",{
         scrub: 3
       }
 })
+
+
+
 
 
 
