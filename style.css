@@ -804,6 +804,8 @@ transition: all ease 0.5s;
         line-height: 2vw;
         margin-bottom: 0.1vw;
     }
+    #cursor{
+        display: none;
 }
 
 
