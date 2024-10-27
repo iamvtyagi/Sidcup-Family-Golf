@@ -3,12 +3,14 @@
 This project is for Sidcup Family Golf, a family-friendly golf venue in South East London. The site is designed to showcase the venue's offerings, including its Toptracer Range, golf lessons, adventure golf, and coffee shop, along with interactive features like custom cursors and animations.
 
 ## Features
-- **Custom Cursor:** A unique cursor design that enlarges on hover over menu items and cards for better user interaction.
+
+- **Custom Cursor:** A unique cursor design that enlarges on hover over menu items and cards for enhanced user interaction.
 - **GSAP Animations:** Smooth animations powered by GreenSock (GSAP) for scroll-triggered effects, cursor movements, and element transitions.
-- **Video Background:** A fullscreen autoplaying video on the homepage for visual engagement.
-- **Interactive Sections:** Scroll-triggered animations for image reveals and text content, providing dynamic user experience.
-- **Mobile-Friendly Layout:** Responsive design ensuring proper display across all device sizes.
-- **Adventure Golf and Golf Lessons:** Informational sections about the venue’s services with appealing hover effects on cards.
+- **Video Background:** A fullscreen autoplaying video on the homepage for immersive visual engagement.
+- **Interactive Sections:** Scroll-triggered animations for image reveals and text content, providing a dynamic user experience.
+- **Mobile-Friendly Layout:** The design is fully responsive and optimized for mobile devices, ensuring smooth transitions, readable text, and touch-friendly interactions without compromising the overall experience.
+- **Adventure Golf and Golf Lessons:** Informational sections about the venue’s services, with appealing hover effects on cards. The layout is designed to be responsive and intuitive on smaller screens as well.
+
 
 ## Technologies Used
 - **HTML5:** Structure of the website.
